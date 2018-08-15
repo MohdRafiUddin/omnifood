@@ -8,7 +8,7 @@
 > follow this steps to clone this repository using git.
 ```sh
 $ git clone https://github.com/MohdRafiUddin/omnifood.git
-$ cd ColorGame
+$ cd omnifood
 ```
 #### Not Familiar with Git?
 > Click [here](https://github.com/MohdRafiUddin/omnifood/archive/master.zip) then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and:
